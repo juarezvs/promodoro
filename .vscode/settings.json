@@ -4,5 +4,7 @@
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
-  }
+  },
+  "workbench.editor.labelFormat": "short",
+  "editor.tabSize": 2
 }
